@@ -1,0 +1,15 @@
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\EmployeeManager.Infrastructure.deps.json
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\EmployeeManager.Infrastructure.dll
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\ref\EmployeeManager.Infrastructure.dll
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\EmployeeManager.Infrastructure.pdb
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\EmployeeManager.Core.dll
+D:\Job Test\Acora\EmployeeManager.Infrastructure\bin\Debug\net5.0\EmployeeManager.Core.pdb
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.csproj.AssemblyReference.cache
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.AssemblyInfoInputs.cache
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.AssemblyInfo.cs
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.csproj.CopyComplete
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.dll
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\ref\EmployeeManager.Infrastructure.dll
+D:\Job Test\Acora\EmployeeManager.Infrastructure\obj\Debug\net5.0\EmployeeManager.Infrastructure.pdb
